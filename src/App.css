@@ -1,0 +1,45 @@
+#cen{
+    margin-top: 15rem;
+}
+.header{
+    margin: 6rem 30rem;
+    border-style: outset;
+    border-color: black;
+}
+.box{
+    margin: 2.5rem 25rem;
+    padding: 5rem 5rem 2rem 5rem;
+    border-style:outset;
+    border-color: black;
+}
+.log{
+    padding: 10rem 5rem 10rem 5rem;
+}
+.tblbox{
+    margin: 2rem 2rem;
+    border-style: outset;
+    border-color: black;
+}
+.button-center{
+    padding: 1rem 8.25rem;
+    
+}
+/* .item{
+    float: right;
+} */
+
+
+
+/* input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+       -webkit-appearance: none;
+        margin: 0;
+} */
+
+input[type=number] {
+    -moz-appearance: textfield;
+}
+
+/* .button-center{
+    text-align: center
+} */
